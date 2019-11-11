@@ -1,2 +1,2 @@
 # DuoServer
-Server application for Duo Wechat public account
+Server application for Duow Wechat public account
